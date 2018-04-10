@@ -1,7 +1,0 @@
-{
-  "chaincodeId": "messagestore",
-  "chaincodeVersion": "1.0",
-  "channel": "channel_name",
-  "fcn": "write",
-  "args": ["message"]
-}

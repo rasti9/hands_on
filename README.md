@@ -21,10 +21,7 @@ This chaincode can be deployed on Hyperledger Fabric peers with version >= 1.0.
 
 
 ## How to use it
-1. Clone this repository e.g.
- ```sh
- $ git clone git@github.com:dpdornseifer/chaincode_templates.git
- ```
+1. Clone this repository 
 
 2. Make sure that the dependencies for the Hyperledger Fabric shim interface are available in the ```$GOPATH``` - e.g.
  ```sh
